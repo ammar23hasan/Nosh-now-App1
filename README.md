@@ -39,13 +39,6 @@ This project is built using modern technologies and libraries in the app develop
 
 ---
 
-## 🚀 Getting Started
-
-To run this project locally on your machine, follow these steps:
-
-### Prerequisites:
-- Install [Flutter SDK](https://docs.flutter.dev/get-started/install).
-- A code editor like VS Code or Android Studio.
 
 ### Installation Steps:
 1. **Clone the repository:**
